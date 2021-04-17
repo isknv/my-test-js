@@ -8,11 +8,17 @@
   }
   div.text2-box {
     width: 100%;
+    height: 130px;
   }
   div.text3-box {
     width: 100%;
+    height: 130px;
   }
   header.header-box {
     display: contents;
+  }
+  
+  .text-box {
+    width: 100%;
   }
 } ;
