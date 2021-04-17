@@ -1,0 +1,18 @@
+@media all and (max-width: 768px) {
+  body {
+    background-color: brown;
+  }
+  div.trl {
+    display: contents;
+    justify-content: center;
+  }
+  div.text2-box {
+    width: 100%;
+  }
+  div.text3-box {
+    width: 100%;
+  }
+  header.header-box {
+    display: contents;
+  }
+} ;

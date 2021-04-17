@@ -1,14 +1,14 @@
-body{
+body {
   background-color: tomato;
 }
-.header-box{
-  border: solid px black ;
+.header-box {
+  border: solid px black;
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.text-box{
+.text-box {
   border: solid 0px royalblue;
   background-color: rgba(255, 255, 255, 0.2);
   width: 400px;
@@ -16,15 +16,15 @@ body{
   display: flex;
   align-items: center;
   justify-content: space-around;
-  box-shadow: 0 25px 14px rgba(0, 0, 0, 0.432)
+  box-shadow: 0 25px 14px rgba(0, 0, 0, 0.432);
 }
-.click-text{
+.click-text {
   width: 60px;
   height: 30px;
   font-size: 15px;
 }
 
-.text-search{
+.text-search {
   border: solid 5px rgba(0, 0, 0, 0.205);
   width: 200px;
   height: 30px;
@@ -32,26 +32,25 @@ body{
   background-color: rgba(0, 0, 0, 0.075);
 }
 
-.trl{
+.trl {
   border: solid px grey;
   height: 700px;
   display: flex;
   justify-content: center;
-  
 }
 
-.text2-box{
+.text2-box {
   border: rgb(0, 0, 0) solid 0px;
   background-color: rgba(255, 255, 255, 0.1);
   width: 400px;
   height: 250px;
   box-shadow: 0 25px 12px rgba(0, 0, 0, 0.432);
   font-size: 17px;
-  font-family:monospace;
-  word-wrap: break-word; 
+  font-family: monospace;
+  word-wrap: break-word;
 }
 
-.text3-box{
+.text3-box {
   border: rgb(255, 255, 255) solid 0px;
   background-color: rgba(255, 255, 255, 0.1);
   width: 400px;
@@ -59,15 +58,15 @@ body{
   box-shadow: 0 25px 12px rgba(0, 0, 0, 0.432);
   justify-content: center;
   font-size: 17px;
-  font-family:monospace; 
-  word-wrap: break-word;     
+  font-family: monospace;
+  word-wrap: break-word;
 }
-.text-inp{
-  background-color: rgba(255, 255, 255, 0.0);;
+.text-inp {
+  background-color: rgba(255, 255, 255, 0);
   border: rgb(255, 255, 255) solid 0px;
 }
-.click-text{
-  background-color: rgba(255, 255, 255, 0.2);;
+.click-text {
+  background-color: rgba(255, 255, 255, 0.2);
   border: rgb(255, 255, 255) solid 0px;
 }
 
@@ -86,7 +85,7 @@ body{
   height: auto;
   border-radius: 8px;
   left: -352px;
-  top: 0; 
+  top: 0;
   z-index: 101;
   background: bisque;
   font-size: 20px;
